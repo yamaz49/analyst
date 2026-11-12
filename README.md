@@ -46,7 +46,7 @@
 
 ```bash
 cd ~/.claude/skills
-git clone https://github.com/YOUR_USERNAME/universal-data-analyst.git
+git clone https://github.com/yamaz49/analyst.git universal-data-analyst
 ```
 
 然后直接在 Claude Code 对话中上传数据文件，或输入：
@@ -161,7 +161,7 @@ pip install pandas numpy matplotlib seaborn scipy openpyxl chardet pyarrow
 ### 添加到 Python 路径
 
 ```bash
-export PYTHONPATH="/Users/yamazhen/.claude/skills/universal-data-analyst:$PYTHONPATH"
+export PYTHONPATH="$HOME/.claude/skills/universal-data-analyst:$PYTHONPATH"
 ```
 
 ---
@@ -214,20 +214,3 @@ universal-data-analyst/
 ## 许可证
 
 CC BY-NC-SA 4.0
-
----
-
-## 作者与交流
-
-由 **Claude Code** 设计实现。
-
-如果你对这个 Skill 感兴趣，或者想讨论数据分析、AI 自动化工作流的话题，欢迎通过以下方式找到我：
-
-- 💬 微信公众号 / 小红书 / ：小王子和小企鹅 
-- 📧 项目 Issues：欢迎提交 Bug 反馈和功能建议
-
-> **P.S.** 如果你在寻找基于这个 Skill 的「数据代分析服务」，也可以私信联系我。
-
----
-
-*用 AI 把复杂的数据分析，变成一件简单的事。*

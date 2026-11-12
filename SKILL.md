@@ -1,3 +1,8 @@
+---
+name: universal-data-analyst
+description: 分析 CSV、Excel 或 Parquet 文件，检查数据质量并生成图表和报告。
+---
+
 # 通用数据分析专家（Universal Data Analyst）
 
 ## 简介

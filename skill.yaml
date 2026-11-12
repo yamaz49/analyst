@@ -14,7 +14,7 @@ description: |
 
   支持经济型数据和非经济型数据，自动适配分析框架。
 
-version: 1.0.0
+version: 1.1.0
 author: Claude
 
 triggers:
